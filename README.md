@@ -1,1 +1,0 @@
-# Reviving-Grayscale-A-Seed-Point-Propagation-Approach-to-Image-Colorization
